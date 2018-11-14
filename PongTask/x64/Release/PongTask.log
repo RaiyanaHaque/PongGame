@@ -1,0 +1,7 @@
+﻿  PongTask.cpp
+\\school.lan\filestore\userdata\students\rhaque\documents\github\ponggame\pongtask\pongtask.cpp(202): error C2628: 'GameManager' followed by 'int' is illegal (did you forget a ';'?)
+\\school.lan\filestore\userdata\students\rhaque\documents\github\ponggame\pongtask\pongtask.cpp(203): error C3874: return type of 'main' should be 'int' instead of 'GameManager'
+\\school.lan\filestore\userdata\students\rhaque\documents\github\ponggame\pongtask\pongtask.cpp(204): error C2065: 'width': undeclared identifier
+\\school.lan\filestore\userdata\students\rhaque\documents\github\ponggame\pongtask\pongtask.cpp(210): error C2440: 'return': cannot convert from 'int' to 'GameManager'
+  \\school.lan\filestore\userdata\students\rhaque\documents\github\ponggame\pongtask\pongtask.cpp(210): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+\\school.lan\filestore\userdata\students\rhaque\documents\github\ponggame\pongtask\pongtask.cpp(130): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
